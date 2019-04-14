@@ -58,20 +58,20 @@ Caso você tenha gerado a chave com senha, então será necessário [adicioná-l
 1. No canto superior direito de qualquer página, clique na foto do seu perfil e clique em ***Settings***.
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/userbar.png "userbar")
    
-2. Na barra lateral de configurações do usuário, clique em ***SSH and GPG keys***.
+2. Na barra lateral de configurações do usuário, clique em ***SSH and GPG keys***.    
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/sidebar-ssh-keys.png "sidebar-ssh-keys")
    
-3. Clique em ***New SSH key*** ou ***Add SSH key***.
+3. Clique em ***New SSH key*** ou ***Add SSH key***.   
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/ssh-add-ssh-key.png "ssh-add")
    
 4. No campo "Title", adicione um rótulo descritivo para a nova chave. Por exemplo, se você estiver usando
 um Mac pessoal, poderá chamar essa chave de "Personal MacBook Air".
    
-5. Cole sua chave no campo "Key".
+5. Cole sua chave no campo "Key".   
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/key-paste.png "key-paste")
    
-6. Clique em ***Add SSH key***.
+6. Clique em ***Add SSH key***.   
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/add-key.png "add-key")
    
-7. Se solicitado, confirme sua senha do GitHub.
+7. Se solicitado, confirme sua senha do GitHub.   
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/confirm.png "confirm")
