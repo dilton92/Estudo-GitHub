@@ -49,13 +49,11 @@ não foi utilizado em sua máquina. Então será necessário criar uma nova chav
 
 
 Se você criou sua chave sem senha, basta abrir o arquivo onde a chave foi salva e copiar o conteúdo
-para adicioná-lo à sua conta do GitHub. Você deve localizar a pasta oculta, usando o seguinte comando:
-```ls ~/.ssh```, abrir o arquivo no seu editor de texto favorito e copiar o conteúdo. Outra maneira de
-copiar a chave é utlilizar o [```xclip```]().
+para adicioná-lo à sua conta do GitHub. Você deve localizar a pasta oculta , usando o seguinte comando: ```ls ~/.ssh``` (no caso do Linux, o arquivo geralmente é salvo na pasta "/home/.ssh"), abrir o arquivo no seu editor de texto favorito e copiar o conteúdo. Outra maneira de copiar a chave é utlilizar o [```xclip```](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
-Caso você tenha gerado a chave com senha, então será necessário [adicioná-la ao ```ssh-agent```]().
+Após copiar o conteúdo do arquivo id_rsa.pub (Chave SSH Pública), siga o passo a passo abaixo:
 
-1. No canto superior direito de qualquer página, clique na foto do seu perfil e clique em ***Settings***.
+1. No canto superior direito da página do GitHub, clique na foto do seu perfil e clique em ***Settings***.
    ![alt text](https://github.com/dilton92/Estudo-GitHub/blob/master/userbar.png "userbar")
    
 2. Na barra lateral de configurações do usuário, clique em ***SSH and GPG keys***.    
